@@ -1,0 +1,15 @@
+/Users/evgeniisolonitsyn/Desktop/Education/C#/Homework5/Task34/bin/Debug/net6.0/Task34
+/Users/evgeniisolonitsyn/Desktop/Education/C#/Homework5/Task34/bin/Debug/net6.0/Task34.deps.json
+/Users/evgeniisolonitsyn/Desktop/Education/C#/Homework5/Task34/bin/Debug/net6.0/Task34.runtimeconfig.json
+/Users/evgeniisolonitsyn/Desktop/Education/C#/Homework5/Task34/bin/Debug/net6.0/Task34.dll
+/Users/evgeniisolonitsyn/Desktop/Education/C#/Homework5/Task34/bin/Debug/net6.0/Task34.pdb
+/Users/evgeniisolonitsyn/Desktop/Education/C#/Homework5/Task34/obj/Debug/net6.0/Task34.csproj.AssemblyReference.cache
+/Users/evgeniisolonitsyn/Desktop/Education/C#/Homework5/Task34/obj/Debug/net6.0/Task34.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgeniisolonitsyn/Desktop/Education/C#/Homework5/Task34/obj/Debug/net6.0/Task34.AssemblyInfoInputs.cache
+/Users/evgeniisolonitsyn/Desktop/Education/C#/Homework5/Task34/obj/Debug/net6.0/Task34.AssemblyInfo.cs
+/Users/evgeniisolonitsyn/Desktop/Education/C#/Homework5/Task34/obj/Debug/net6.0/Task34.csproj.CoreCompileInputs.cache
+/Users/evgeniisolonitsyn/Desktop/Education/C#/Homework5/Task34/obj/Debug/net6.0/Task34.dll
+/Users/evgeniisolonitsyn/Desktop/Education/C#/Homework5/Task34/obj/Debug/net6.0/refint/Task34.dll
+/Users/evgeniisolonitsyn/Desktop/Education/C#/Homework5/Task34/obj/Debug/net6.0/Task34.pdb
+/Users/evgeniisolonitsyn/Desktop/Education/C#/Homework5/Task34/obj/Debug/net6.0/Task34.genruntimeconfig.cache
+/Users/evgeniisolonitsyn/Desktop/Education/C#/Homework5/Task34/obj/Debug/net6.0/ref/Task34.dll
